@@ -1,0 +1,35 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 901ab4d293e94564a32da6ca5d0b6eb1 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot testbench_behav xil_defaultlib.testbench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.safeop_serial_pkg
+Compiling package unisim.vcomponents
+Compiling package unimacro.vcomponents
+Compiling package std.textio
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package ieee.std_logic_arith
+Compiling architecture behavioral of entity xil_defaultlib.AC_pwr_mgmt [ac_pwr_mgmt_default]
+Compiling architecture rtl of entity xil_defaultlib.crc16_dnp [crc16_dnp_default]
+Compiling architecture rtl of entity xil_defaultlib.message_tx [\message_tx(pifg_bits=96)\]
+Compiling architecture rtl of entity xil_defaultlib.host_output [host_output_default]
+Compiling architecture rtl of entity xil_defaultlib.level_sync [level_sync_default]
+Compiling architecture rtl of entity xil_defaultlib.host_capture [host_capture_default]
+Compiling architecture rtl of entity xil_defaultlib.message_rx [message_rx_default]
+Compiling architecture ff18_internal_vhdl_v of entity unisim.FF18_INTERNAL_VHDL [\FF18_INTERNAL_VHDL(data_width=3...]
+Compiling architecture fifo18e1_v of entity unisim.FIFO18E1 [\FIFO18E1(data_width=36,fifo_mod...]
+Compiling architecture fifo_v of entity unimacro.FIFO_DUALCLOCK_MACRO [\FIFO_DUALCLOCK_MACRO(data_width...]
+Compiling architecture struct of entity xil_defaultlib.safeOp_serial_link_logic [safeop_serial_link_logic_default]
+Compiling architecture behavioral of entity xil_defaultlib.core_safety_logic [core_safety_logic_default]
+Compiling architecture arch_imp of entity xil_defaultlib.rm_PwrMgmt_SafeOp_Interface_v1_0_S00_AXI [rm_pwrmgmt_safeop_interface_v1_0...]
+Compiling architecture behavioral of entity xil_defaultlib.testbench
+Built simulation snapshot testbench_behav

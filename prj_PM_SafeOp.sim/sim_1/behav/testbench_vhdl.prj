@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../hdl/safeop_serial_pkg.vhd"
+vhdl xil_defaultlib  "../../../../hdl/level_sync.vhd"
+vhdl xil_defaultlib  "../../../../hdl/crc16_dnp.vhd"
+vhdl xil_defaultlib  "../../../../hdl/message_tx.vhd"
+vhdl xil_defaultlib  "../../../../hdl/message_rx.vhd"
+vhdl xil_defaultlib  "../../../../hdl/host_capture.vhd"
+vhdl xil_defaultlib  "../../../../hdl/host_output.vhd"
+vhdl xil_defaultlib  "../../../../hdl/core_safety_logic.vhd"
+vhdl xil_defaultlib  "../../../../hdl/AC_pwr_mgmt.vhd"
+vhdl xil_defaultlib  "../../../../hdl/safeOp_serial_link_logic.vhd"
+vhdl xil_defaultlib  "../../../../hdl/rm_PwrMgmt_SafeOp_Interface_v1_0_S00_AXI.vhd"
+vhdl xil_defaultlib  "../../../../sim/testbench.vhd"
+
+# Do not sort compile order
+nosort

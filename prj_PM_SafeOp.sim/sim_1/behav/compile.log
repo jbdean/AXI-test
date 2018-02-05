@@ -1,0 +1,23 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/safeop_serial_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/level_sync.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity level_sync
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/crc16_dnp.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity crc16_dnp
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/message_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity message_tx
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/message_rx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity message_rx
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/host_capture.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity host_capture
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/host_output.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity host_output
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/core_safety_logic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity core_safety_logic
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/AC_pwr_mgmt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AC_pwr_mgmt
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/safeOp_serial_link_logic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity safeOp_serial_link_logic
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/hdl/rm_PwrMgmt_SafeOp_Interface_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity rm_PwrMgmt_SafeOp_Interface_v1_0_S00_AXI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/work/RxEC_FPGA/rm_RxEC_FPGA_safeop_prj/rm_PwrMgmt_SafeOp_Interface_1.0/sim/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testbench
